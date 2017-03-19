@@ -1,0 +1,14 @@
+﻿  OperationStack.c
+e:\projects\c++\realestateproject\realestateproject\operationstack.c(106): warning C4305: 'function': truncation from 'double' to 'float'
+e:\projects\c++\realestateproject\realestateproject\operationstack.c(107): warning C4305: 'function': truncation from 'double' to 'float'
+e:\projects\c++\realestateproject\realestateproject\operationstack.c(124): warning C4047: 'function': 'OperationsStack *' differs in levels of indirection from 'OperationsStack **'
+e:\projects\c++\realestateproject\realestateproject\operationstack.c(124): warning C4024: 'isFull': different types for formal and actual parameter 1
+e:\projects\c++\realestateproject\realestateproject\operationstack.c(125): warning C4047: 'function': 'OperationsStack *' differs in levels of indirection from 'OperationsStack **'
+e:\projects\c++\realestateproject\realestateproject\operationstack.c(125): warning C4024: 'isEmpty': different types for formal and actual parameter 1
+  Controller.c
+e:\projects\c++\realestateproject\realestateproject\controller.c(145): warning C4305: 'function': truncation from 'double' to 'float'
+e:\projects\c++\realestateproject\realestateproject\controller.c(147): warning C4305: 'function': truncation from 'double' to 'float'
+e:\projects\c++\realestateproject\realestateproject\controller.c(149): warning C4305: 'function': truncation from 'double' to 'float'
+  Generating Code...
+  RealEstateProject.vcxproj -> E:\Projects\C++\RealEstateProject\Debug\RealEstateProject.exe
+  RealEstateProject.vcxproj -> E:\Projects\C++\RealEstateProject\Debug\RealEstateProject.pdb (Partial PDB)
